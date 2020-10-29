@@ -99,3 +99,7 @@ https://localhost:5500
 <br>
 
 <p align="center"> <img src="README-files/give-classes.png" title="Cadastro do professor" width="800"> </p>
+
+---
+
+Feito com 💜 by Rocketseat :wave: Participe da nossa comunidade no [Discord!](https://discordapp.com/invite/gCRAFhc)
