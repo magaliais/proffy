@@ -16,18 +16,6 @@ A **Proffy** é uma plataforma feita para unir estudantes que precisam de aulas 
 
 <br>
 
-## 📋 Índice
-
-- [Tecnologias utilizadas](##-Tecnologias-utilizadas)
-- [Como executar o projeto](##-Como-executar-o-projeto)
-- [Preview](##-Preview)
-
-<br>
-
----
-
-<br>
-
 ## Tecnologias utilizadas
 
 * HTML
