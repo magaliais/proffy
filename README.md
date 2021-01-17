@@ -59,6 +59,9 @@ npm run dev
 
 # Abra o browser em
 https://localhost:5500
+
+# É possível visualizar a plataforma remotamente em outro dispositivo conectado à mesma rede por meio de:
+SEUIPv4:5500
 ```
 
 <br>
