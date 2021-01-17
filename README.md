@@ -33,8 +33,13 @@ A **Proffy** é uma plataforma feita para unir estudantes que precisam de aulas 
 
 <br>
 
-## Como executar o projeto
+## 🚀 Como executar o projeto
 
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+#### 🧭 Rodando a aplicação
 
 ```bash
 # Download do repositório
@@ -55,6 +60,19 @@ npm run dev
 # Abra o browser em
 https://localhost:5500
 ```
+
+<br>
+
+---
+
+<br>
+
+## 💪 Como contribuir para o projeto
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
 
 <br>
 
