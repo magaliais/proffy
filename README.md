@@ -43,7 +43,7 @@ Além disto ter um editor para trabalhar com o código como [VSCode](https://cod
 
 ```bash
 # Download do repositório
-git clone https://github.com/magaliais/proffy
+git clone https://github.com/magaliais/proffy.git
 
 # Entrar no diretório
 cd proffy
